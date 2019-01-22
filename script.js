@@ -5,7 +5,7 @@ const showImage = document.querySelector('#show-img');
 getQuote.addEventListener('click', getFetches)
 
 function fetchQuote() {
-  fetch('http://ron-swanson-quotes.herokuapp.com/v2/quotes')
+  fetch('https://ron-swanson-quotes.herokuapp.com/v2/quotes')
     .then(data => data.json())
     .then(data => showQuote.innerText = data);
 }
