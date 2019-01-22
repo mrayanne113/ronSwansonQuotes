@@ -1,4 +1,4 @@
-# ronSwansonQuotes
+# Ron Swanson Inspirational Quotes
 
 
-A quick little side project.
+A quick little side project based on a favorite Packs and Rec character 
